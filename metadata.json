@@ -1,0 +1,6 @@
+{
+  "name": "Remix: Orchestra",
+  "description": "Multi-agent system with Orchestrator, Library, Grant, Job, and Housing agents using real-time dataset simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
